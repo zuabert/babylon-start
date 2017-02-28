@@ -1,0 +1,8 @@
+{
+  "files": [
+    "source/bootstrap.ts"
+  ],
+  "compilerOptions": {
+    "sourceMap": true
+  }
+}
